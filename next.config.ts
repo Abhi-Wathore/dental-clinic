@@ -3,6 +3,7 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   output: 'export',
   basePath: '/dental-clinic', // ⚠️ Replace this with your exact repository name
+  assetPrefix: '/dental-clinic/',
   images: {
     unoptimized: true, // Required for static exporting
     remotePatterns: [
