@@ -1,2 +1,2 @@
-:HL["/dental-clinic/_next/static/chunks/2yorfy75gplkq.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"ukdwN4xtgFU5cyCNVwhTe"}
+:HL["/dental-clinic/_next/static/chunks/3rkojuye9d997.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"Pgf2dG8JbPIRKdIFYm6io"}
