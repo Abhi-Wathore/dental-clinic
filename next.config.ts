@@ -2,16 +2,13 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   output: 'export',
-  basePath: '/dental-clinic', // ⚠️ Replace this with your exact repository name
-  assetPrefix: '/dental-clinic/',
+  basePath: '/dental-clinic', 
   images: {
-    unoptimized: true, // Required for static exporting
+    unoptimized: true, 
     remotePatterns: [
       {
         protocol: "https",
         hostname: "://googleusercontent.com",
-        port: "",
-        pathname: "/**",
       },
     ],
   },
